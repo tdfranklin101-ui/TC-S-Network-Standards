@@ -1,0 +1,8 @@
+{
+  "repoName": "TC-S-Network-Standards",
+  "slug": "standards",
+  "title": "Standards & Schemas",
+  "role": "Hosts Solar Standard, UIM, SI, and related JSON/JSON-LD schemas.",
+  "kind": "library",
+  "createdAt": "2025-11-22T17:30:18.004Z"
+}
